@@ -453,6 +453,14 @@
               "description": "高清蓝光网专注于蓝光高清电影，每日为大家提供最新的1080P高清电影和蓝光原盘资源下载！这里是高清影视发烧友的电影天堂。",
               "icon": "/assets/favicon_1760429500695.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1760429526029_331lavae5",
+              "title": "Web5",
+              "href": "https://web5.mukaku.com/",
+              "description": "访问 web5.mukaku.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=web5.mukaku.com",
+              "enabled": true
             }
           ]
         }
