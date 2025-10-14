@@ -811,6 +811,14 @@
               "description": "访问 www.iplaysoft.com",
               "icon": "/assets/favicon_1760412084927.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760412102644_o3691qnmz",
+              "title": "Better365",
+              "href": "https://www.better365.cn/",
+              "description": "访问 www.better365.cn",
+              "icon": "/assets/favicon_1760412098245.png",
+              "enabled": true
             }
           ]
         },
