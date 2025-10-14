@@ -224,7 +224,16 @@
       "icon": "LayoutGrid",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1760407868828_lajxfgwpm",
+          "title": "趣站 | ahhhhfs",
+          "href": "https://www.ahhhhfs.com/funny_site/",
+          "description": "",
+          "icon": "/assets/favicon_1760407864822.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
