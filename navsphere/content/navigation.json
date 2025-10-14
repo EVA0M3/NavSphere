@@ -217,6 +217,15 @@
       ],
       "description": "",
       "enabled": true
+    },
+    {
+      "id": "1760407834862",
+      "title": "趣站导航",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
