@@ -92,6 +92,14 @@
           "description": "Test your current internet speed, and find out how fast your broadband wi-fi handles uploads and downloads. See Google Fiber plan options for faster internet.",
           "icon": "/assets/favicon_1760412698145.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1760412745605_dmzj03g00",
+          "title": "GitHub 文件加速",
+          "href": "https://jiasu.macxx.dpdns.org/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=jiasu.macxx.dpdns.org",
+          "enabled": true
         }
       ],
       "subCategories": [],
