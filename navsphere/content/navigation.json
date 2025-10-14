@@ -564,6 +564,14 @@
           "description": "访问 xfyw.gzcc.gov.cn",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=xfyw.gzcc.gov.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1760412825483_nsu7jxvdo",
+          "title": "OCR识别",
+          "href": "https://uutool.cn/ocr/",
+          "description": "访问 uutool.cn",
+          "icon": "/assets/favicon_1760412801688.png",
+          "enabled": true
         }
       ],
       "subCategories": []
