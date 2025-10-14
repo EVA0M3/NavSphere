@@ -1240,6 +1240,14 @@
               "description": "MuMu Player Pro破解版是一款强大的安卓模拟器，允许用户在 PC 或 Mac 上运行安卓游戏和应用。MuMuPlayer 兼容 Android 12，稳定运行超过 300 万款移动游戏，支持多实例操作，提供流畅的键盘和鼠标操作体验。无论是想要在大屏幕上畅玩游戏，还是进行多任务处理，MuMuPlayer 都能满足用户的需求。 多操作系统兼容性: 首个适配 Apple Silicon Ma",
               "icon": "/assets/favicon_1760429643582.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760429834715_l73sqga6b",
+              "title": "查找结果 - macbox.app",
+              "href": "https://macbox.app/s.html?q=mumu",
+              "description": "macbox.app提供最新mac软件和mac游戏，还有mac高清壁纸打包下载",
+              "icon": "/assets/favicon_1760429828863.ico",
+              "enabled": true
             }
           ]
         },
