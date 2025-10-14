@@ -379,6 +379,14 @@
           "description": "访问 mp.weixin.qq.com",
           "icon": "/assets/favicon_1760408842212.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760408874522_y56xrz5vw",
+          "title": "高中电子教材",
+          "href": "https://cloud.lm379.cn/Book/%E9%AB%98%E4%B8%AD%E7%94%B5%E5%AD%90%E6%95%99%E6%9D%90",
+          "description": "",
+          "icon": "/assets/favicon_1760408870277.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
