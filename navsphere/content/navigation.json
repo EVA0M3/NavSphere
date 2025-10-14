@@ -309,6 +309,14 @@
               "description": "访问 yaohuo.me",
               "icon": "/assets/favicon_1760412407224.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760412438653_8579zvusr",
+              "title": "流星社区",
+              "href": "https://bbs.liuxingw.com/t/44147/1.html",
+              "description": "访问 bbs.liuxingw.com",
+              "icon": "/assets/favicon_1760412425984.png",
+              "enabled": true
             }
           ]
         }
