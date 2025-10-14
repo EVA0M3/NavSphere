@@ -395,6 +395,14 @@
               "description": "访问 missav.ws",
               "icon": "/assets/favicon_1760430096938.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760430146812_sdr51j7we",
+              "title": "Jable.TV ",
+              "href": "https://jable.tv/videos/ebwh-188/",
+              "description": "此作品曾在本站上傳，現已更新至中文字幕版。",
+              "icon": "/assets/favicon_1760430129557.png",
+              "enabled": true
             }
           ]
         },
