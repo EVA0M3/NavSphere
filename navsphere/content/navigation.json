@@ -339,6 +339,14 @@
           "description": "图片转文字 - 图片转Excel表格 - PDF转Word - ",
           "icon": "/assets/favicon_1760408663125.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760408724386_sydze7or3",
+          "title": "源泉设计",
+          "href": "http://yqarch.cn/index.asp",
+          "description": "源泉设计CAD软件下载",
+          "icon": "/assets/favicon_1760408701988.png",
+          "enabled": true
         }
       ],
       "subCategories": []
