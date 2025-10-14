@@ -518,6 +518,14 @@
               "description": "科学上网翻墙节点转换与订阅，支持 clash/mihomo/singbox等客户端",
               "icon": "/assets/favicon_1760409988762.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760410163168_848itwba0",
+              "title": "在线订阅转换工具",
+              "href": "https://subconverters.com/",
+              "description": "访问 subconverters.com",
+              "icon": "/assets/favicon_1760410151125.png",
+              "enabled": true
             }
           ]
         },
