@@ -835,6 +835,14 @@
               "description": "PlayCover allows you to run iOS apps and games natively with keymapping on your Apple Silicon Mac!",
               "icon": "/assets/favicon_1760412124011.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1760412146180_zzzuwunef",
+              "title": "YouTube - MACPA,砸壳包IPA资源下载站，IOS手游软件免费砸壳解密社区",
+              "href": "https://macpa.cn/resource/YouTube",
+              "description": "视频、音乐和直‪播‬, MACPA砸壳解密社区,一个专为IOS手游软件砸壳解密获取纯净IPA砸壳包而诞生的IPA资源下载解密分享平台，提供IOS手机上各类IPA砸壳包的解密下载及安装教程，本站免费分享下载安装教程助力您将IPA砸壳包安装到您的Mac、iphone(越狱、巨魔、多开)等设备上，使其应用能够在MacOS(macbook、mac mini、mac pro)及IOS等系统上流畅使用运行各类游戏软件及工具",
+              "icon": "/assets/favicon_1760412142446.png",
+              "enabled": true
             }
           ]
         },
