@@ -387,6 +387,14 @@
               "description": "访问 mf.dp.wpurl.cc",
               "icon": "/assets/favicon_1760408211334.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760413573273_nm8wsd0rs",
+              "title": "Vite App",
+              "href": "https://bd.yueyued.top/user/parse",
+              "description": "",
+              "icon": "/assets/favicon_1760413566803.ico",
+              "enabled": true
             }
           ],
           "enabled": true
