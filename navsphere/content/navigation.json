@@ -346,6 +346,14 @@
               "description": "文章目录 显示 1 魔法解析介绍 2 全网VIP视频在线解析网站 魔法解析介绍 魔法解析是一款在线全网VIP视",
               "icon": "/assets/favicon_1760428411407.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760428493266_braf3dnlr",
+              "title": "影视资源分享",
+              "href": "https://skilladd.org/2025/04/06/4.%E5%BD%B1%E8%A7%86%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/",
+              "description": "访问 skilladd.org",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=skilladd.org",
+              "enabled": true
             }
           ]
         },
