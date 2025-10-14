@@ -371,7 +371,16 @@
           "icon": "Coffee",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1760428927504_ylaindogg",
+              "title": "Tvairavvip",
+              "href": "https://tvairavvip.top/tag?id=81",
+              "description": "访问 tvairavvip.top",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=tvairavvip.top",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
