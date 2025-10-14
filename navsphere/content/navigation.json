@@ -876,7 +876,16 @@
           "icon": "Laptop",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1760412340312_srggqglze",
+              "title": "黑域破解",
+              "href": "https://www.hybase.com/pc/windows/",
+              "description": "黑域破解",
+              "icon": "/assets/favicon_1760412315648.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
