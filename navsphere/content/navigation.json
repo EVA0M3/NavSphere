@@ -44,6 +44,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=dl.macxx.dpdns.org",
           "enabled": true
+        },
+        {
+          "id": "site_1760407327494_mo6d72a3y",
+          "title": "Github私库存储",
+          "href": "https://github.com/EVA0M3/Sku",
+          "description": "私库文件存储",
+          "icon": "/assets/favicon_1760407298690.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
