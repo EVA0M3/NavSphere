@@ -451,6 +451,14 @@
               "description": "访问 missav.ws",
               "icon": "/assets/favicon_1760430262496.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760430298357_kmglzbmi9",
+              "title": "XFuLiJi",
+              "href": "https://xfuliji.com/",
+              "description": "",
+              "icon": "/assets/favicon_1760430281490.ico",
+              "enabled": true
             }
           ]
         },
