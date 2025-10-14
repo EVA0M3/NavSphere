@@ -445,7 +445,16 @@
           "icon": "Heart",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1760429508061_5sdl2g4wm",
+              "title": "中国蓝光网丨蓝光电影网|蓝光影院|高清电影网|高清电影|蓝光原盘|蓝光电影下载|蓝光高清|蓝光1080P|蓝光电影爱好者",
+              "href": "http://languangdy.com/",
+              "description": "高清蓝光网专注于蓝光高清电影，每日为大家提供最新的1080P高清电影和蓝光原盘资源下载！这里是高清影视发烧友的电影天堂。",
+              "icon": "/assets/favicon_1760429500695.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
