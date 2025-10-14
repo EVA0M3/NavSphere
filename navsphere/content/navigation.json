@@ -354,6 +354,14 @@
               "description": "访问 skilladd.org",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=skilladd.org",
               "enabled": true
+            },
+            {
+              "id": "site_1760430342305_fk778irzd",
+              "title": "七味 - 七味网",
+              "href": "https://www.qwavi.com/",
+              "description": "七味 - 观影小站",
+              "icon": "/assets/favicon_1760430336786.ico",
+              "enabled": true
             }
           ]
         },
