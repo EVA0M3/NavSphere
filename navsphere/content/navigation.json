@@ -62,6 +62,14 @@
           "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
           "icon": "/assets/favicon_1760406867107.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1760406899419_hc66qoq19",
+          "title": "Chat",
+          "href": "https://chat.livis.com/login",
+          "description": "访问 chat.livis.com 理想同学AI助手",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=chat.livis.com",
+          "enabled": true
         }
       ],
       "subCategories": [
