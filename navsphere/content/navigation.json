@@ -599,6 +599,14 @@
               "description": "ClouDNS provides Free DNS, Cloud DNS, Managed DNS, GeoDNS and DDoS Protected DNS hosting with included web redirects, mail forwards and Round-Robin load balancing. Instant updates in Europe, North and South America, Asia and Australia.",
               "icon": "/assets/favicon_1760410679335.gif",
               "enabled": true
+            },
+            {
+              "id": "site_1760410726819_fvxe4qcbn",
+              "title": "DigitalPlat 免费域名",
+              "href": "https://dash.domain.digitalplat.org/auth/login",
+              "description": "",
+              "icon": "/assets/favicon_1760410713732.jpg",
+              "enabled": true
             }
           ]
         },
