@@ -377,6 +377,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=afengxiang.github.io",
           "enabled": true
+        },
+        {
+          "id": "site_1760412375280_lopoyitwl",
+          "title": "科技共享导航站",
+          "href": "https://kjgx.168668520.xyz/",
+          "description": "",
+          "icon": "/assets/favicon_1760412370053.png",
+          "enabled": true
         }
       ],
       "subCategories": []
