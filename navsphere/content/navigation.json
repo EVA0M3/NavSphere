@@ -355,6 +355,14 @@
           "description": "MMsteel-批打印软件",
           "icon": "/assets/favicon_1760408734764.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760408804050_9j6dm5mpr",
+          "title": "在线文件提取",
+          "href": "https://omnifile.co/zh-cn/extract/",
+          "description": "免费在线提取文件。无需上传文件。支持 47 种文件格式。",
+          "icon": "/assets/favicon_1760408791376.png",
+          "enabled": true
         }
       ],
       "subCategories": []
