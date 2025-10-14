@@ -259,6 +259,14 @@
               "description": "访问 lz.qaiu.top",
               "icon": "/assets/favicon_1760408130272.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760408184399_cit21dv2l",
+              "title": "网盘直链提取",
+              "href": "https://link.gimhoy.com/",
+              "description": "访问 link.gimhoy.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=link.gimhoy.com",
+              "enabled": true
             }
           ],
           "enabled": true
