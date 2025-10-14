@@ -755,6 +755,14 @@
               "description": "访问 www.better365.cn",
               "icon": "/assets/favicon_1760411975454.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760411996731_r40ivuofw",
+              "title": "Macapp",
+              "href": "https://www.macapp.so/",
+              "description": "访问 www.macapp.so",
+              "icon": "/assets/favicon_1760411993153.png",
+              "enabled": true
             }
           ]
         },
