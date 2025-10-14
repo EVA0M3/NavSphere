@@ -395,6 +395,14 @@
           "description": "访问 dudianji.com",
           "icon": "/assets/favicon_1760408884785.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760408919179_223r6ym5h",
+          "title": "奇客PDF转Word",
+          "href": "https://www.geekersoft.cn/pdf-to-word.html",
+          "description": "访问 www.geekersoft.cn",
+          "icon": "/assets/favicon_1760408906036.png",
+          "enabled": true
         }
       ],
       "subCategories": []
