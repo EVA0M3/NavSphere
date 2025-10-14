@@ -387,6 +387,14 @@
           "description": "",
           "icon": "/assets/favicon_1760408870277.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1760408894794_mn2pgwrez",
+          "title": "读典籍",
+          "href": "https://dudianji.com/",
+          "description": "访问 dudianji.com",
+          "icon": "/assets/favicon_1760408884785.png",
+          "enabled": true
         }
       ],
       "subCategories": []
