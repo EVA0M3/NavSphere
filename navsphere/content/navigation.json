@@ -94,6 +94,14 @@
           "description": "访问 chat.zju.edu.cn",
           "icon": "/assets/favicon_1760406973684.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760407010499_blpgosibi",
+          "title": "腾讯混元AI助手",
+          "href": "https://hunyuan.tencent.com/",
+          "description": "访问 hunyuan.tencent.com",
+          "icon": "/assets/favicon_1760406997504.png",
+          "enabled": true
         }
       ],
       "subCategories": [
