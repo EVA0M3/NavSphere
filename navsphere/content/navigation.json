@@ -118,6 +118,14 @@
           "description": "当贝AI，体验DeepSeek满血版，聚合全网优质AI大模型，如DeepSeek-R1 671B、豆包、通义千问、智谱等。当贝AI知识库，深度AI解决方案，极速、高效、免费、无需注册、不限量！",
           "icon": "/assets/favicon_1760407080725.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1760407130580_4xjibpks8",
+          "title": "通义 - 你的超级个人助理",
+          "href": "https://www.tongyi.com/qianwen/?spm=5176.28326591.0.0.40f76ee1zBYunq&sessionId=cb4f21523cbb476f87cbbba85fb0a475",
+          "description": "通义是一个通情、达义的国产AI模型，可以帮你解答问题、文档阅读、联网搜索并写作总结，最多支持1000万字的文档速读。通义_你的全能AI助手",
+          "icon": "/assets/favicon_1760407122335.png",
+          "enabled": true
         }
       ],
       "subCategories": [
