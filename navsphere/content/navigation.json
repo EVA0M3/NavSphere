@@ -325,6 +325,14 @@
               "description": "",
               "icon": "/assets/favicon_1760412447982.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1760412491034_0wim7q088",
+              "title": "Yaohuo",
+              "href": "https://yaohuo.me/bbs/?6",
+              "description": "访问 yaohuo.me",
+              "icon": "/assets/favicon_1760412484385.png",
+              "enabled": true
             }
           ]
         }
