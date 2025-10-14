@@ -461,6 +461,14 @@
               "description": "快如闪电，同享4K视觉盛宴，低调奢华，尽情享受4K高清画面，品质可靠，价格亲民，超值实惠，是你的不二选择。",
               "icon": "/assets/favicon_1760409760924.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1760409843615_33qutu17u",
+              "title": "Free 免费机场",
+              "href": "https://asus.im/#/dashboard",
+              "description": "访问 asus.im",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=asus.im",
+              "enabled": true
             }
           ]
         },
