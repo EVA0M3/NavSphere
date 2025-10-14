@@ -598,6 +598,14 @@
               "description": "SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 - ACL4SSR/Clash at master · ACL4SSR/ACL4SSR",
               "icon": "/assets/favicon_1760410811047.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760410853051_ps6fqy8t6",
+              "title": "luestr/ShuntRules分流规则",
+              "href": "https://github.com/luestr/ShuntRules?tab=readme-ov-file",
+              "description": "更适合Loon和Clash的分流规则. Contribute to luestr/ShuntRules development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1760410835585.png",
+              "enabled": true
             }
           ]
         },
