@@ -60,6 +60,14 @@
           "description": "EVA0M3",
           "icon": "/assets/favicon_1760407393419.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760407960981_hehzy8y72",
+          "title": "Sub Store订阅",
+          "href": "https://sfourulynaww.us-west-1.clawcloudrun.com/subs?api=https://sfourulynaww.us-west-1.clawcloudrun.com/EVA99133",
+          "description": "A sub-converter running in a Progressive Web App",
+          "icon": "/assets/favicon_1760407952365.svg",
+          "enabled": true
         }
       ],
       "subCategories": [],
