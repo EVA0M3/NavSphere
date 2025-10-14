@@ -566,6 +566,14 @@
               "description": "mini icon . Contribute to Orz-3/mini development by creating an account on GitHub.",
               "icon": "/assets/favicon_1760410608184.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760410626858_1rsw9c119",
+              "title": "Lucky/Lucky-ClashVerge.yaml at main · As-Lucky/Lucky · GitHub",
+              "href": "https://github.com/As-Lucky/Lucky/blob/main/Lucky-ClashVerge.yaml",
+              "description": "分享是最高级的浪漫. Contribute to As-Lucky/Lucky development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1760410621960.png",
+              "enabled": true
             }
           ]
         },
