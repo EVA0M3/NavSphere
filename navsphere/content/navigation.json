@@ -22,6 +22,14 @@
           "enabled": true
         },
         {
+          "id": "site_1760413321651_tig93v2m2",
+          "title": "搜索 - Microsoft 必应",
+          "href": "https://cn.bing.com/?mkt=JP&ensearch=1&FORM=BEHPTB",
+          "description": "使用 Microsoft 必应进行搜索，并利用 AI 的强大功能查找信息、浏览网页、图像、视频、地图等。为永远充满好奇心的人提供的智能搜索引擎。",
+          "icon": "/assets/favicon_1760413317072.png",
+          "enabled": true
+        },
+        {
           "id": "site_1760406668536_3bb6uhniy",
           "title": "Cloudflare",
           "href": "https://dash.cloudflare.com/d26e7d137505806bc5ebd30b61c595af/workers%3Dand%3Dpages",
@@ -139,14 +147,6 @@
           "href": "https://tv2.macxx.dpdns.org/",
           "description": "影视聚合",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=tv2.macxx.dpdns.org",
-          "enabled": true
-        },
-        {
-          "id": "site_1760413321651_tig93v2m2",
-          "title": "搜索 - Microsoft 必应",
-          "href": "https://cn.bing.com/?mkt=JP&ensearch=1&FORM=BEHPTB",
-          "description": "使用 Microsoft 必应进行搜索，并利用 AI 的强大功能查找信息、浏览网页、图像、视频、地图等。为永远充满好奇心的人提供的智能搜索引擎。",
-          "icon": "/assets/favicon_1760413317072.png",
           "enabled": true
         },
         {
