@@ -387,6 +387,14 @@
               "description": "",
               "icon": "/assets/favicon_1760430079563.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760430113244_yjsp4b333",
+              "title": "Missav",
+              "href": "https://missav.ws/cn/sone-667-chinese-subtitle",
+              "description": "访问 missav.ws",
+              "icon": "/assets/favicon_1760430096938.png",
+              "enabled": true
             }
           ]
         },
