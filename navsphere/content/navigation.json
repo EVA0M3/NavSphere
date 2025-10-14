@@ -477,6 +477,14 @@
               "description": "访问 ikuuu.de",
               "icon": "/assets/favicon_1760409851680.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760409900895_h2xrbz21u",
+              "title": "🐮牛逼机场",
+              "href": "https://6bb6.idsduf.com/#/login",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=6bb6.idsduf.com",
+              "enabled": true
             }
           ]
         },
