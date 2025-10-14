@@ -317,6 +317,14 @@
               "description": "访问 bbs.liuxingw.com",
               "icon": "/assets/favicon_1760412425984.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760412472290_byvs7emer",
+              "title": "Yoo趣儿",
+              "href": "https://yooqur.com/thread/85231-1.html",
+              "description": "",
+              "icon": "/assets/favicon_1760412447982.ico",
+              "enabled": true
             }
           ]
         }
