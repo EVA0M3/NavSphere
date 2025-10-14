@@ -567,6 +567,14 @@
               "description": "CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=ip.164746.xyz",
               "enabled": true
+            },
+            {
+              "id": "site_1760410270768_k6q090qnc",
+              "title": "全球主机监控",
+              "href": "https://stock.hostmonit.com/CloudFlareYes",
+              "description": "访问 stock.hostmonit.com",
+              "icon": "/assets/favicon_1760410251323.png",
+              "enabled": true
             }
           ]
         }
