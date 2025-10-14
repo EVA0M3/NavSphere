@@ -116,6 +116,14 @@
           "description": "咕咕番 - 为广大二次元爱好者提供免费、高质量无广告的新番、老番、特摄动画在线观看！",
           "icon": "/assets/favicon_1760412787850.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760412851328_89j5rartl",
+          "title": "NewsNow",
+          "href": "https://news12.macxx.dpdns.org/",
+          "description": "NewsNow - 实时新闻聚合阅读器，汇集全球热点新闻，提供优雅的阅读体验",
+          "icon": "/assets/favicon_1760412847138.svg",
+          "enabled": true
         }
       ],
       "subCategories": [],
