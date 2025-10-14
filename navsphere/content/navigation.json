@@ -747,6 +747,14 @@
               "description": "访问 xclient.info",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=xclient.info",
               "enabled": true
+            },
+            {
+              "id": "site_1760411979851_1ngo1bvxr",
+              "title": "Better365",
+              "href": "https://www.better365.cn/apps.html",
+              "description": "访问 www.better365.cn",
+              "icon": "/assets/favicon_1760411975454.png",
+              "enabled": true
             }
           ]
         },
