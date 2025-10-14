@@ -438,6 +438,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "ca372321-333e-45e8-bee7-7fdeee944fd4",
+          "title": "4k影视",
+          "icon": "Heart",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
