@@ -314,6 +314,14 @@
               "description": "韩剧网(hanju.co)是中文韩剧网站,提供最新韩剧,韩国电影,韩国综艺在线观看,韩剧排行榜,好看的韩剧,娱乐新闻,韩国电视剧,韩剧资料馆,剧情介绍。",
               "icon": "/assets/favicon_1760428300526.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760428347621_m8iuq89fx",
+              "title": "仙女影视",
+              "href": "https://xnys.cc/",
+              "description": "访问 xnys.cc",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=xnys.cc",
+              "enabled": true
             }
           ]
         },
