@@ -419,6 +419,14 @@
           "description": "访问 www.gdzwfw.gov.cn",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.gdzwfw.gov.cn",
           "enabled": true
+        },
+        {
+          "id": "site_1760409249980_8rv3o18v3",
+          "title": "广州市建设工程消防服务系统",
+          "href": "http://xfyw.gzcc.gov.cn:8000/XfwptIndex.html",
+          "description": "访问 xfyw.gzcc.gov.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=xfyw.gzcc.gov.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
