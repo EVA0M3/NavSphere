@@ -889,6 +889,14 @@
               "description": "⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. - zhuima/awesome-cloudflare",
               "icon": "/assets/favicon_1760424258019.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760424753420_vbara6ptg",
+              "title": "Cloudflare甄选工具",
+              "href": "https://cloudflare.chuhai.tools/categories/short-links",
+              "description": "基于Cloudflare的短链服务生成简短的URL，便于分享和跟踪，同时提供强大的安全性和性能优化，确保链接的可靠性和访问速度。",
+              "icon": "https://cloudflare.chuhai.tools/favicon.ico",
+              "enabled": true
             }
           ]
         }
