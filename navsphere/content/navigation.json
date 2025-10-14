@@ -795,6 +795,14 @@
               "description": "macked每天更新大量精品mac软件,为您提供优质的mac软件,mac破解版软件下载,以及各种实用的Mac技巧教程,致力于打造从软件到服务都是一流的Mac软件资源网站。",
               "icon": "/assets/favicon_1760412052963.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760412075484_f77o9mdoe",
+              "title": "Macbl",
+              "href": "https://www.macbl.com/app/new",
+              "description": "访问 www.macbl.com",
+              "icon": "/assets/favicon_1760412067910.png",
+              "enabled": true
             }
           ]
         },
