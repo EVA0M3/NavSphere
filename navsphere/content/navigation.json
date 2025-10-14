@@ -363,6 +363,14 @@
           "description": "免费在线提取文件。无需上传文件。支持 47 种文件格式。",
           "icon": "/assets/favicon_1760408791376.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760408833178_s28k2hpzj",
+          "title": "可汗学院",
+          "href": "https://zh.khanacademy.org/math/zh-grade-7/xf54f025512416342:zh-grade-7-you-li-shu",
+          "description": "",
+          "icon": "/assets/favicon_1760408823574.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
