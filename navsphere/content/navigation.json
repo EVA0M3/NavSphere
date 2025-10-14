@@ -469,6 +469,14 @@
               "description": "访问 asus.im",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=asus.im",
               "enabled": true
+            },
+            {
+              "id": "site_1760409864662_4wxirobmb",
+              "title": "ikuuu免费机场",
+              "href": "https://ikuuu.de/auth/login",
+              "description": "访问 ikuuu.de",
+              "icon": "/assets/favicon_1760409851680.png",
+              "enabled": true
             }
           ]
         },
