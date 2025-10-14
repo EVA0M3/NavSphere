@@ -294,6 +294,14 @@
             }
           ],
           "enabled": true
+        },
+        {
+          "id": "4e949666-4bf4-4647-a95a-8d11b26d366a",
+          "title": "免流教程",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
