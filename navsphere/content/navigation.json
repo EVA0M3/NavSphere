@@ -803,6 +803,14 @@
               "description": "访问 www.macbl.com",
               "icon": "/assets/favicon_1760412067910.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760412088708_ncxbyd9ox",
+              "title": "Iplaysoft",
+              "href": "https://www.iplaysoft.com/os/mac-platform",
+              "description": "访问 www.iplaysoft.com",
+              "icon": "/assets/favicon_1760412084927.png",
+              "enabled": true
             }
           ]
         },
