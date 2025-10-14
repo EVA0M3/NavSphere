@@ -559,6 +559,14 @@
               "description": "CloudFlare 优选ip 和 优选域名方法，节点加速必备！支持在线网站ipv6，cf优选ip怎么用 &#8211; 科技分享",
               "icon": "/assets/favicon_1760410192355.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760410242296_rj9q8apqm",
+              "title": "CF优选IP",
+              "href": "https://ip.164746.xyz/",
+              "description": "CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=ip.164746.xyz",
+              "enabled": true
             }
           ]
         }
