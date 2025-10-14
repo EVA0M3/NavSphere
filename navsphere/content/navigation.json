@@ -20,6 +20,14 @@
           "description": "访问 dash.cloudflare.com",
           "icon": "/assets/favicon_1760406648065.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760406701136_b8sfwoc4o",
+          "title": "Google",
+          "href": "https://www.google.cn/",
+          "description": "谷歌搜索",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.google.cn",
+          "enabled": true
         }
       ],
       "subCategories": [],
