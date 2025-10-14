@@ -156,6 +156,14 @@
           "description": "使用 Microsoft 必应进行搜索，并利用 AI 的强大功能查找信息、浏览网页、图像、视频、地图等。为永远充满好奇心的人提供的智能搜索引擎。",
           "icon": "/assets/favicon_1760413317072.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760413353715_7tufzejsf",
+          "title": "Test",
+          "href": "https://test.ustc.edu.cn/",
+          "description": "访问 test.ustc.edu.cn",
+          "icon": "/assets/favicon_1760413349838.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
