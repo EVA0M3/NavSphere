@@ -313,6 +313,14 @@
           "description": "",
           "icon": "/assets/favicon_1760407896482.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760408953323_ypptm7u2w",
+          "title": "下次一定导航",
+          "href": "https://www.iiice.cn/",
+          "description": "访问 www.iiice.cn",
+          "icon": "/assets/favicon_1760408936483.png",
+          "enabled": true
         }
       ],
       "subCategories": []
