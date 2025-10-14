@@ -235,6 +235,14 @@
               "description": "访问 pan.baidu.com",
               "icon": "/assets/favicon_1760408052381.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760408086470_gxk9s4k0m",
+              "title": "迅雷云盘",
+              "href": "https://pan.xunlei.com/s/VOE4SN_CplwSSVSKm7EQqVXsA1",
+              "description": "访问 pan.xunlei.com",
+              "icon": "/assets/favicon_1760408076638.png",
+              "enabled": true
             }
           ],
           "enabled": true
