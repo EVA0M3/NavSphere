@@ -582,6 +582,14 @@
               "description": "更适合Loon和Clash的分流规则. Contribute to luestr/ShuntRules development by creating an account on GitHub.",
               "icon": "/assets/favicon_1760410632627.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760410802515_pqlzgo0jx",
+              "title": "Yfamily - iOS 代理工具配置",
+              "href": "https://whatshub.top/",
+              "description": "Yfamily 提供完整的 iOS 代理工具（Shadowrocket、小火箭、QuantumultX、QX、QuanX、Loon、Surge、Stash 等）配置、模块、插件、脚本与教程，帮助你充分利用代理工具功能。",
+              "icon": "/assets/favicon_1760410782942.png",
+              "enabled": true
             }
           ]
         },
