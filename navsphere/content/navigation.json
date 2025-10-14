@@ -438,7 +438,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "b3acfe05-e00e-42cb-a6c1-c0aafc62eb7d",
+          "title": "订阅机场",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
