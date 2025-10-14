@@ -724,7 +724,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "347dfb54-a6a0-424c-a8fd-e4b7a92c1613",
+          "title": "MAC破解",
+          "icon": "Heart",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
