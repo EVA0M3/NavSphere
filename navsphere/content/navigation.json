@@ -118,14 +118,6 @@
           "enabled": true
         },
         {
-          "id": "site_1760412865112_va0xls09y",
-          "title": "BrowserScan - DNS 泄漏检测 | BrowserScan",
-          "href": "https://www.browserscan.net/zh/dns-leak",
-          "description": "DNS泄露测试是每个关注在线隐私和安全的人必不可少的工具。当您使用VPN服务来隐藏您的互联网活动时，确保您的DNS请求也得到保护是至关重要的。DNS泄露可能会暴露这些请求，将您访问的网站透露给您的互联网服务提供商（ISP）或任何监控您连接的窃听者。进行DNS泄露测试是一个简单的过程。通过运行DNS泄露测试，您可以确保您的在线活动不会通过DNS查询泄露出去。",
-          "icon": "/assets/favicon_1760412861818.ico",
-          "enabled": true
-        },
-        {
           "id": "site_1760412935176_910900men",
           "title": "LibreTV - 免费在线视频搜索与观看平台",
           "href": "https://libretv.macxx.dpdns.org/EVA99133",
@@ -163,6 +155,14 @@
           "href": "https://fiber.google.com/speedtest/",
           "description": "Test your current internet speed, and find out how fast your broadband wi-fi handles uploads and downloads. See Google Fiber plan options for faster internet.",
           "icon": "/assets/favicon_1760412698145.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1760412865112_va0xls09y",
+          "title": "BrowserScan - DNS 泄漏检测 | BrowserScan",
+          "href": "https://www.browserscan.net/zh/dns-leak",
+          "description": "DNS泄露测试是每个关注在线隐私和安全的人必不可少的工具。当您使用VPN服务来隐藏您的互联网活动时，确保您的DNS请求也得到保护是至关重要的。DNS泄露可能会暴露这些请求，将您访问的网站透露给您的互联网服务提供商（ISP）或任何监控您连接的窃听者。进行DNS泄露测试是一个简单的过程。通过运行DNS泄露测试，您可以确保您的在线活动不会通过DNS查询泄露出去。",
+          "icon": "/assets/favicon_1760412861818.ico",
           "enabled": true
         }
       ],
