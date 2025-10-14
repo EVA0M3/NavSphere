@@ -290,6 +290,14 @@
               "description": "访问 www.keke1.app",
               "icon": "/assets/favicon_1760428196854.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760428253699_glpzeqsc7",
+              "title": "硬核影视",
+              "href": "https://www.iyouxiu.com/vodtype/4kdianying/",
+              "description": "",
+              "icon": "/assets/favicon_1760428236218.png",
+              "enabled": true
             }
           ]
         },
