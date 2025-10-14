@@ -124,6 +124,14 @@
           "description": "NewsNow - 实时新闻聚合阅读器，汇集全球热点新闻，提供优雅的阅读体验",
           "icon": "/assets/favicon_1760412847138.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1760412865112_va0xls09y",
+          "title": "BrowserScan - DNS 泄漏检测 | BrowserScan",
+          "href": "https://www.browserscan.net/zh/dns-leak",
+          "description": "DNS泄露测试是每个关注在线隐私和安全的人必不可少的工具。当您使用VPN服务来隐藏您的互联网活动时，确保您的DNS请求也得到保护是至关重要的。DNS泄露可能会暴露这些请求，将您访问的网站透露给您的互联网服务提供商（ISP）或任何监控您连接的窃听者。进行DNS泄露测试是一个简单的过程。通过运行DNS泄露测试，您可以确保您的在线活动不会通过DNS查询泄露出去。",
+          "icon": "/assets/favicon_1760412861818.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
