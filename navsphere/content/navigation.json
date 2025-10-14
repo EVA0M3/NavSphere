@@ -494,7 +494,16 @@
           "icon": "Shield",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1760409976359_9p6btouun",
+              "title": "CM在线订阅转换",
+              "href": "https://sub.cmliussss.com/",
+              "description": "访问 sub.cmliussss.com",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=sub.cmliussss.com",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "2109c6b5-6a9b-40f7-90c7-0072efe4d4de",
