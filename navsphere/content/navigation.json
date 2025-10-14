@@ -702,6 +702,14 @@
           "description": "",
           "icon": "/assets/favicon_1760412370053.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760429632262_ki8l3g0xu",
+          "title": "夸克迅雷百度网盘资源分享",
+          "href": "https://wangpanziyuan.pages.dev/",
+          "description": "本网站提供夸克、迅雷、百度网盘等各类资源分享，包括电子书、漫画、影视、游戏、音乐和学习资料",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=wangpanziyuan.pages.dev",
+          "enabled": true
         }
       ],
       "subCategories": []
