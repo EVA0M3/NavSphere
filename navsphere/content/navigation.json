@@ -453,6 +453,14 @@
               "description": "访问 hi.hanamaki.dev",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=hi.hanamaki.dev",
               "enabled": true
+            },
+            {
+              "id": "site_1760409780102_igmu4lpn5",
+              "title": "69云官网",
+              "href": "https://69yun69.com/auth/login",
+              "description": "快如闪电，同享4K视觉盛宴，低调奢华，尽情享受4K高清画面，品质可靠，价格亲民，超值实惠，是你的不二选择。",
+              "icon": "/assets/favicon_1760409760924.ico",
+              "enabled": true
             }
           ]
         },
