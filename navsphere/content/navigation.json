@@ -68,6 +68,14 @@
           "description": "A sub-converter running in a Progressive Web App",
           "icon": "/assets/favicon_1760407952365.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1760410137872_8ompf3v65",
+          "title": "Claw.cloud",
+          "href": "https://us-west-1.run.claw.cloud/",
+          "description": "ClawCloud面板",
+          "icon": "/assets/favicon_1760410115383.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
