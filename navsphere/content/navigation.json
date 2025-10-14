@@ -76,6 +76,14 @@
           "description": "ClawCloud面板",
           "icon": "/assets/favicon_1760410115383.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760410381705_j4gkw9rqt",
+          "title": "文件传输助手",
+          "href": "https://szfilehelper.weixin.qq.com/",
+          "description": "访问 szfilehelper.weixin.qq.com",
+          "icon": "/assets/favicon_1760410372859.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
