@@ -331,6 +331,14 @@
           "description": "免费翻译 英语，并提供准确结果。每天有数百万人使用必应翻译 100 多种语言 - 立即试用!",
           "icon": "/assets/favicon_1760408431616.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760408680657_p153jozvj",
+          "title": "白描网页版",
+          "href": "https://web.baimiaoapp.com/",
+          "description": "图片转文字 - 图片转Excel表格 - PDF转Word - ",
+          "icon": "/assets/favicon_1760408663125.png",
+          "enabled": true
         }
       ],
       "subCategories": []
