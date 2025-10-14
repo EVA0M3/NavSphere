@@ -240,6 +240,14 @@
           "description": "毒奶导航 - 免费在线影视网站、科学上网、毒奶搜索、番号搜索、建站、运维、防御、SEO、JAV、定时更新优质免费资源。https://limbopro.com/daohang/",
           "icon": "/assets/favicon_1760407875806.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760407900756_i1nh7z0pw",
+          "title": "Hi科技玩家 - 科技资源与工具导航网站",
+          "href": "https://hi.kejiwanjia.net/",
+          "description": "",
+          "icon": "/assets/favicon_1760407896482.png",
+          "enabled": true
         }
       ],
       "subCategories": []
