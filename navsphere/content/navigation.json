@@ -86,6 +86,14 @@
           "description": "访问 yuewen.cn",
           "icon": "/assets/favicon_1760406938222.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760406987699_ycndub5mi",
+          "title": "Chat AI校园",
+          "href": "https://chat.zju.edu.cn/",
+          "description": "访问 chat.zju.edu.cn",
+          "icon": "/assets/favicon_1760406973684.png",
+          "enabled": true
         }
       ],
       "subCategories": [
