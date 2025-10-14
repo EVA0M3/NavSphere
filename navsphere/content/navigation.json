@@ -371,6 +371,14 @@
           "description": "",
           "icon": "/assets/favicon_1760408823574.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1760408858226_2mpnrfx1k",
+          "title": "国家中小学智慧教育平台",
+          "href": "https://mp.weixin.qq.com/s/NZIeVw236MM0tbEd-q1p7w",
+          "description": "访问 mp.weixin.qq.com",
+          "icon": "/assets/favicon_1760408842212.png",
+          "enabled": true
         }
       ],
       "subCategories": []
