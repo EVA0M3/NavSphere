@@ -138,7 +138,16 @@
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1760406747369_jq4ck7woa",
+          "title": "Outlook邮箱",
+          "href": "https://outlook.live.com/mail/0/",
+          "description": "微软邮箱",
+          "icon": "/assets/favicon_1760406735734.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [
         {
           "id": "3",
