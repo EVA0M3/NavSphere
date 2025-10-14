@@ -462,6 +462,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "61e22e41-a94e-4b7d-b615-b26d05b24b33",
+          "title": "Cloudflare",
+          "icon": "Coffee",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
