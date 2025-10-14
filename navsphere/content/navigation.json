@@ -379,6 +379,14 @@
               "description": "访问 tvairavvip.top",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=tvairavvip.top",
               "enabled": true
+            },
+            {
+              "id": "site_1760429014936_y7o0h9dyn",
+              "title": "Sexlikereal",
+              "href": "https://www.sexlikereal.com/",
+              "description": "访问 www.sexlikereal.com",
+              "icon": "/assets/favicon_1760429007723.png",
+              "enabled": true
             }
           ]
         }
