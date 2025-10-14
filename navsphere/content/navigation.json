@@ -583,6 +583,14 @@
               "description": "查看微测网提供的 CloudFlare IPv4 优选地址列表。获取低延迟、高速的 CloudFlare CDN 节点 IP。",
               "icon": "/assets/favicon_1760410280250.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760410306480_eftklj6yf",
+              "title": "常用网络测速文件链接列表",
+              "href": "https://tao.zz.ac/net/speedtest-link.html#mb-%E8%85%BE%E8%AE%AFcdn",
+              "description": "本文搜集了一些测速文件链接备用。",
+              "icon": "/assets/favicon_1760410296842.png",
+              "enabled": true
             }
           ]
         }
