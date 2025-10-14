@@ -84,6 +84,14 @@
           "description": "访问 szfilehelper.weixin.qq.com",
           "icon": "/assets/favicon_1760410372859.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760412723757_wrcymthu3",
+          "title": "Internet Speed Test | Check Broadband Speed | Google Fiber",
+          "href": "https://fiber.google.com/speedtest/",
+          "description": "Test your current internet speed, and find out how fast your broadband wi-fi handles uploads and downloads. See Google Fiber plan options for faster internet.",
+          "icon": "/assets/favicon_1760412698145.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
