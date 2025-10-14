@@ -338,6 +338,14 @@
               "description": "Kimivod，追劇首選高清線上影片免費看，涵蓋電影、電視劇、動漫、綜藝、陸劇、韓劇、美劇、台劇、日劇、BL、泰劇、紀錄片等影視節目！",
               "icon": "/assets/favicon_1760428378522.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760428417602_tdpkldeji",
+              "title": "魔法解析-全网VIP视频在线解析 - A姐分享",
+              "href": "https://www.ahhhhfs.com/63373/",
+              "description": "文章目录 显示 1 魔法解析介绍 2 全网VIP视频在线解析网站 魔法解析介绍 魔法解析是一款在线全网VIP视",
+              "icon": "/assets/favicon_1760428411407.png",
+              "enabled": true
             }
           ]
         },
