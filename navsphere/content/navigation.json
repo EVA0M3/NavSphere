@@ -574,6 +574,14 @@
               "description": "分享是最高级的浪漫. Contribute to As-Lucky/Lucky development by creating an account on GitHub.",
               "icon": "/assets/favicon_1760410621960.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760410639306_41k4ccjs6",
+              "title": "GitHub - luestr/ShuntRules: 更适合Loon和Clash的分流规则",
+              "href": "https://github.com/luestr/ShuntRules",
+              "description": "更适合Loon和Clash的分流规则. Contribute to luestr/ShuntRules development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1760410632627.png",
+              "enabled": true
             }
           ]
         },
