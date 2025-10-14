@@ -606,6 +606,14 @@
               "description": "更适合Loon和Clash的分流规则. Contribute to luestr/ShuntRules development by creating an account on GitHub.",
               "icon": "/assets/favicon_1760410835585.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760410895979_moe4yinnq",
+              "title": "GitHub - Centralmatrix3/Matrix-io: Surge Stash QuantumultX",
+              "href": "https://github.com/Centralmatrix3/Matrix-io?tab=readme-ov-file",
+              "description": "Surge Stash QuantumultX. Contribute to Centralmatrix3/Matrix-io development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1760410878593.png",
+              "enabled": true
             }
           ]
         },
