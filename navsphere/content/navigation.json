@@ -30,6 +30,14 @@
           "enabled": true
         },
         {
+          "id": "site_1760410381705_j4gkw9rqt",
+          "title": "文件传输助手",
+          "href": "https://szfilehelper.weixin.qq.com/",
+          "description": "访问 szfilehelper.weixin.qq.com",
+          "icon": "/assets/favicon_1760410372859.png",
+          "enabled": true
+        },
+        {
           "id": "site_1760406668536_3bb6uhniy",
           "title": "Cloudflare",
           "href": "https://dash.cloudflare.com/d26e7d137505806bc5ebd30b61c595af/workers%3Dand%3Dpages",
@@ -83,14 +91,6 @@
           "href": "https://us-west-1.run.claw.cloud/",
           "description": "ClawCloud面板",
           "icon": "/assets/favicon_1760410115383.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1760410381705_j4gkw9rqt",
-          "title": "文件传输助手",
-          "href": "https://szfilehelper.weixin.qq.com/",
-          "description": "访问 szfilehelper.weixin.qq.com",
-          "icon": "/assets/favicon_1760410372859.png",
           "enabled": true
         },
         {
