@@ -68,6 +68,14 @@
           "description": "A sub-converter running in a Progressive Web App",
           "icon": "/assets/favicon_1760407952365.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1760408447640_7ikvcqv4y",
+          "title": "微软翻译",
+          "href": "https://cn.bing.com/translator?setlang=zh=cn",
+          "description": "免费翻译 英语，并提供准确结果。每天有数百万人使用必应翻译 100 多种语言 - 立即试用!",
+          "icon": "/assets/favicon_1760408431616.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
