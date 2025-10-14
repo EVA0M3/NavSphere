@@ -819,6 +819,14 @@
               "description": "访问 www.better365.cn",
               "icon": "/assets/favicon_1760412098245.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760412115356_yg4eptkmi",
+              "title": "Decrypt",
+              "href": "https://decrypt.day/",
+              "description": "访问 decrypt.day",
+              "icon": "/assets/favicon_1760412111414.png",
+              "enabled": true
             }
           ]
         },
