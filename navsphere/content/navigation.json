@@ -227,6 +227,14 @@
               "description": "访问 www.aliyundrive.com",
               "icon": "/assets/favicon_1760408031022.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760408063366_h5icaxmlc",
+              "title": "百度云盘",
+              "href": "https://pan.baidu.com/disk/main?from=homeFlow&_at_=1760407969386#/index?category=all",
+              "description": "访问 pan.baidu.com",
+              "icon": "/assets/favicon_1760408052381.png",
+              "enabled": true
             }
           ],
           "enabled": true
