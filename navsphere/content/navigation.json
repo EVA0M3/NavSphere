@@ -232,6 +232,14 @@
           "description": "",
           "icon": "/assets/favicon_1760407864822.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760407881252_4d04ftdo8",
+          "title": "毒奶导航 - 毒奶博主的万能网址导航神器！",
+          "href": "https://limbopro.com/daohang/index.html#gsc.tab=0",
+          "description": "毒奶导航 - 免费在线影视网站、科学上网、毒奶搜索、番号搜索、建站、运维、防御、SEO、JAV、定时更新优质免费资源。https://limbopro.com/daohang/",
+          "icon": "/assets/favicon_1760407875806.png",
+          "enabled": true
         }
       ],
       "subCategories": []
