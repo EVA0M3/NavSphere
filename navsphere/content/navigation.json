@@ -779,6 +779,14 @@
               "description": "访问 www.macmj.com",
               "icon": "/assets/favicon_1760412020458.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760412043827_x0ztr0057",
+              "title": "Macapp",
+              "href": "https://macapp.org.cn/?btwaf=98726121",
+              "description": "访问 macapp.org.cn",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=macapp.org.cn",
+              "enabled": true
             }
           ]
         },
