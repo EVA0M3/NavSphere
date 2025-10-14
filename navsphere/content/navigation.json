@@ -78,6 +78,14 @@
           "description": "Unlock free ChatGPT instantly - no registration needed. Experience AI chat in English now. Start chatting without any hassle or signup process.",
           "icon": "/assets/favicon_1760406916611.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1760406963139_7ramqt1in",
+          "title": "阶跃AI",
+          "href": "https://yuewen.cn/chats/new",
+          "description": "访问 yuewen.cn",
+          "icon": "/assets/favicon_1760406938222.png",
+          "enabled": true
         }
       ],
       "subCategories": [
