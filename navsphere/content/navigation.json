@@ -430,6 +430,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1760409410497",
+      "title": "订阅相关",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
