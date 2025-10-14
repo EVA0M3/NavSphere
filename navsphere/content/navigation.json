@@ -881,6 +881,14 @@
               "description": "本文搜集了一些测速文件链接备用。",
               "icon": "/assets/favicon_1760410296842.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760424281440_4pyfmto45",
+              "title": "⛅️ 精选的 Cloudflare 工具",
+              "href": "https://github.com/zhuima/awesome-cloudflare",
+              "description": "⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. - zhuima/awesome-cloudflare",
+              "icon": "/assets/favicon_1760424258019.png",
+              "enabled": true
             }
           ]
         }
