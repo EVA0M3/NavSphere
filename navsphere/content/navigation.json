@@ -282,7 +282,16 @@
           "icon": "FileText",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1760428214724_u5md74eln",
+              "title": "可可影视",
+              "href": "https://www.keke1.app/",
+              "description": "访问 www.keke1.app",
+              "icon": "/assets/favicon_1760428196854.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "5737638e-0c17-4377-9e67-12cf0fb2acd5",
