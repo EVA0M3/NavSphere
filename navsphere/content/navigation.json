@@ -478,7 +478,16 @@
           "icon": "Coffee",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1760409726486_zen1pkgjj",
+              "title": "CF自建订阅",
+              "href": "https://sadiof.macxx.dpdns.org/ce9bb801-ba86-4ac7-9beb-e5e164002087",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=sadiof.macxx.dpdns.org",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
