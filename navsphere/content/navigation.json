@@ -164,6 +164,14 @@
           "description": "访问 test.ustc.edu.cn",
           "icon": "/assets/favicon_1760413349838.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760413382782_3bm3fjjms",
+          "title": "Speedtest",
+          "href": "https://www.speedtest.cn/",
+          "description": "访问 www.speedtest.cn",
+          "icon": "/assets/favicon_1760413380521.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
