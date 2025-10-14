@@ -591,7 +591,16 @@
           "icon": "Briefcase",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1760410706162_s775bauu3",
+              "title": "ClouDNS免费域名",
+              "href": "https://www.cloudns.net/index/show/login/",
+              "description": "ClouDNS provides Free DNS, Cloud DNS, Managed DNS, GeoDNS and DDoS Protected DNS hosting with included web redirects, mail forwards and Round-Robin load balancing. Instant updates in Europe, North and South America, Asia and Australia.",
+              "icon": "/assets/favicon_1760410679335.gif",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "61e22e41-a94e-4b7d-b615-b26d05b24b33",
