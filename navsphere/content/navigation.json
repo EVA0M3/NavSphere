@@ -363,7 +363,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1760429066704_442n33gcn",
+              "title": "Theporndude",
+              "href": "https://theporndude.com/zh/teen-porn-sites",
+              "description": "访问 theporndude.com",
+              "icon": "/assets/favicon_1760429039928.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "e26ecb34-bf34-4751-98d9-f07a5b956ed9",
