@@ -411,6 +411,14 @@
           "description": "访问 www.geekersoft.cn",
           "icon": "/assets/favicon_1760408906036.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760409206036_0wgc6l5a7",
+          "title": "广东政务服务网",
+          "href": "https://www.gdzwfw.gov.cn/portal/simple-guide/11440100MB2C91103Q3442112090001",
+          "description": "访问 www.gdzwfw.gov.cn",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=www.gdzwfw.gov.cn",
+          "enabled": true
         }
       ],
       "subCategories": []
