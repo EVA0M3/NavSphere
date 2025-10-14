@@ -590,6 +590,14 @@
               "description": "Yfamily 提供完整的 iOS 代理工具（Shadowrocket、小火箭、QuantumultX、QX、QuanX、Loon、Surge、Stash 等）配置、模块、插件、脚本与教程，帮助你充分利用代理工具功能。",
               "icon": "/assets/favicon_1760410782942.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760410827875_0me6tt38m",
+              "title": "ACL4SSR/分流",
+              "href": "https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash",
+              "description": "SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 - ACL4SSR/Clash at master · ACL4SSR/ACL4SSR",
+              "icon": "/assets/favicon_1760410811047.png",
+              "enabled": true
             }
           ]
         },
