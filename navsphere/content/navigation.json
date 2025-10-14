@@ -330,6 +330,14 @@
               "description": "爱壹帆每天发布最新电影和电视剧,为广大用户免费提供无广告在线观看电影和电视剧服务,及时收录最新、最热、最全的电影大片,4K高清免费看",
               "icon": "/assets/favicon_1760428357562.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760428387322_b4fgveum6",
+              "title": "Kimivod | 電視劇 電影 動漫 綜藝 線上看",
+              "href": "https://kimivod.com/",
+              "description": "Kimivod，追劇首選高清線上影片免費看，涵蓋電影、電視劇、動漫、綜藝、陸劇、韓劇、美劇、台劇、日劇、BL、泰劇、紀錄片等影視節目！",
+              "icon": "/assets/favicon_1760428378522.png",
+              "enabled": true
             }
           ]
         },
