@@ -763,6 +763,14 @@
               "description": "访问 www.macapp.so",
               "icon": "/assets/favicon_1760411993153.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760412009891_sa1lb0mi8",
+              "title": "Mac萌新网|最全的Mac/Win/Linux软件,科学软件,化学软件下载,软件首发站",
+              "href": "https://www.macxin.com/",
+              "description": "萌新网是一个电脑新手变成高手的网站，分享Linux、Mac、Windows专业软件、Chem化学生物医学软件免费下载和一些系统和软件安装教程和问题处理技巧",
+              "icon": "/assets/favicon_1760412005482.png",
+              "enabled": true
             }
           ]
         },
