@@ -716,6 +716,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1760411691287",
+      "title": "软件破解",
+      "icon": "Box",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
