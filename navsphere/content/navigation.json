@@ -614,6 +614,14 @@
               "description": "Surge Stash QuantumultX. Contribute to Centralmatrix3/Matrix-io development by creating an account on GitHub.",
               "icon": "/assets/favicon_1760410878593.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760410917491_vl7ghb1yd",
+              "title": "ACL4SSR/分流",
+              "href": "https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/config/ACL4SSR_AdblockPlus.ini",
+              "description": "SSR 去广告ACL规则/SS完整GFWList规则/Clash规则碎片，Telegram频道订阅地址 - ACL4SSR/Clash/config/ACL4SSR_AdblockPlus.ini at master · ACL4SSR/ACL4SSR",
+              "icon": "/assets/favicon_1760410903471.png",
+              "enabled": true
             }
           ]
         },
