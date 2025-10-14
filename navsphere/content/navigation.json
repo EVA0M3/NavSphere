@@ -827,6 +827,14 @@
               "description": "访问 decrypt.day",
               "icon": "/assets/favicon_1760412111414.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760412128780_lzwxptuv5",
+              "title": "Download - PlayCover",
+              "href": "https://playcover.io/download/",
+              "description": "PlayCover allows you to run iOS apps and games natively with keymapping on your Apple Silicon Mac!",
+              "icon": "/assets/favicon_1760412124011.ico",
+              "enabled": true
             }
           ]
         },
