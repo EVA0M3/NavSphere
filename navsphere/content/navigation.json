@@ -771,6 +771,14 @@
               "description": "萌新网是一个电脑新手变成高手的网站，分享Linux、Mac、Windows专业软件、Chem化学生物医学软件免费下载和一些系统和软件安装教程和问题处理技巧",
               "icon": "/assets/favicon_1760412005482.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760412024195_x9v8jb53l",
+              "title": "Macmj",
+              "href": "https://www.macmj.com/",
+              "description": "访问 www.macmj.com",
+              "icon": "/assets/favicon_1760412020458.png",
+              "enabled": true
             }
           ]
         },
