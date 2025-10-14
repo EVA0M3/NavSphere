@@ -446,6 +446,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "b4ac3996-80f7-4bc9-bb4e-c3b79b04197e",
+          "title": "订阅配置",
+          "icon": "Shield",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
