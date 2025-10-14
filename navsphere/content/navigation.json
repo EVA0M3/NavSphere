@@ -70,6 +70,14 @@
           "description": "访问 chat.livis.com 理想同学AI助手",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=chat.livis.com",
           "enabled": true
+        },
+        {
+          "id": "site_1760406927778_7y0qpzeom",
+          "title": "Free ChatGPT No Login | English Support | No Registration Required",
+          "href": "https://heck.ai/",
+          "description": "Unlock free ChatGPT instantly - no registration needed. Experience AI chat in English now. Start chatting without any hassle or signup process.",
+          "icon": "/assets/favicon_1760406916611.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
