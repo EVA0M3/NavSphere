@@ -52,6 +52,14 @@
           "description": "私库文件存储",
           "icon": "/assets/favicon_1760407298690.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760407416760_ukxn0yikj",
+          "title": "GitHub 主页",
+          "href": "https://github.com/EVA0M3?tab=repositories",
+          "description": "EVA0M3",
+          "icon": "/assets/favicon_1760407393419.png",
+          "enabled": true
         }
       ],
       "subCategories": [],
