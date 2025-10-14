@@ -607,6 +607,14 @@
               "description": "",
               "icon": "/assets/favicon_1760410713732.jpg",
               "enabled": true
+            },
+            {
+              "id": "site_1760410745563_sm57vr4en",
+              "title": "HiDNS 免费域名",
+              "href": "https://www.hidoha.net/order",
+              "description": "Free domain names with hidns.co and hidns.vip suffixes.",
+              "icon": "/assets/favicon_1760410734147.ico",
+              "enabled": true
             }
           ]
         },
