@@ -267,6 +267,14 @@
               "description": "访问 link.gimhoy.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=link.gimhoy.com",
               "enabled": true
+            },
+            {
+              "id": "site_1760408232559_deou7hake",
+              "title": "闪链 在线文件解析",
+              "href": "https://mf.dp.wpurl.cc/user/parse",
+              "description": "访问 mf.dp.wpurl.cc",
+              "icon": "/assets/favicon_1760408211334.png",
+              "enabled": true
             }
           ],
           "enabled": true
