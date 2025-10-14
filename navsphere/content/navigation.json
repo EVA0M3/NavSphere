@@ -102,6 +102,14 @@
           "description": "访问 hunyuan.tencent.com",
           "icon": "/assets/favicon_1760406997504.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760407045388_wd9iy8mf8",
+          "title": "ChatoraX AI",
+          "href": "https://ai-chatbot.top/",
+          "description": "满血deepseek",
+          "icon": "/assets/favicon_1760407020720.png",
+          "enabled": true
         }
       ],
       "subCategories": [
