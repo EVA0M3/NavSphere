@@ -36,6 +36,14 @@
           "description": "Gmail 是一款直观、高效且实用的邮件应用。免费提供 15 GB 存储空间，具备出色的垃圾邮件过滤功能，而且支持移动访问。",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=mail.google.com",
           "enabled": true
+        },
+        {
+          "id": "site_1760407267222_pd8f18ae2",
+          "title": "SINK短链管网",
+          "href": "https://dl.macxx.dpdns.org/dashboard/links",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=dl.macxx.dpdns.org",
+          "enabled": true
         }
       ],
       "subCategories": [],
