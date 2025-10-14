@@ -551,6 +551,14 @@
               "description": "",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=sadiof.macxx.dpdns.org",
               "enabled": true
+            },
+            {
+              "id": "site_1760410214800_nyg5egklt",
+              "title": "CloudFlare 优选ip",
+              "href": "https://www.kjfx.cc/307.html",
+              "description": "CloudFlare 优选ip 和 优选域名方法，节点加速必备！支持在线网站ipv6，cf优选ip怎么用 &#8211; 科技分享",
+              "icon": "/assets/favicon_1760410192355.png",
+              "enabled": true
             }
           ]
         }
