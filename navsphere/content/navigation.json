@@ -884,6 +884,14 @@
               "description": "黑域破解",
               "icon": "/assets/favicon_1760412315648.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760412358856_i17ryg9u0",
+              "title": "52pojie",
+              "href": "https://www.52pojie.cn/thread-1891214-1-1.html",
+              "description": "访问 www.52pojie.cn",
+              "icon": "/assets/favicon_1760412351765.png",
+              "enabled": true
             }
           ]
         }
