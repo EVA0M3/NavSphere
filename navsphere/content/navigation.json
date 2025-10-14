@@ -859,6 +859,14 @@
               "description": "访问 www.hereitis.cn",
               "icon": "/assets/favicon_1760412159517.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760412193932_nttfovy85",
+              "title": "苹果应用 - 亿破姐 - 第2页",
+              "href": "https://www.ypojie.com/pc/macos/page/2",
+              "description": "",
+              "icon": "/assets/favicon_1760412189329.ico",
+              "enabled": true
             }
           ]
         },
