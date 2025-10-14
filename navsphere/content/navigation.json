@@ -461,6 +461,14 @@
               "description": "访问 web5.mukaku.com",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=web5.mukaku.com",
               "enabled": true
+            },
+            {
+              "id": "site_1760429546645_9rz96xzew",
+              "title": "4K指南 | 专注4K超清夸克网盘分享",
+              "href": "https://xuexizhinan.com/",
+              "description": "专注4K超清夸克网盘分享",
+              "icon": "/assets/favicon_1760429536141.png",
+              "enabled": true
             }
           ]
         }
