@@ -100,6 +100,14 @@
           "description": "",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=jiasu.macxx.dpdns.org",
           "enabled": true
+        },
+        {
+          "id": "site_1760412780269_gov0amfhs",
+          "title": "找女神_宅男女神大全_美女女神资料库-女神宅",
+          "href": "https://www.nvshenzhai.com/",
+          "description": "女神宅（nvshenzhai.com）分享最全的宅男女神个人资料,高清美女写真图片、美女资料库,打造最新最全的日本女神美女排名、美女社区、宅男女神排行榜等,找美女上女神宅！",
+          "icon": "/assets/favicon_1760412754902.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
