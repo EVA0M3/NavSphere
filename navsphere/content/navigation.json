@@ -575,6 +575,14 @@
               "description": "访问 stock.hostmonit.com",
               "icon": "/assets/favicon_1760410251323.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760410289225_548tlihr9",
+              "title": "CloudFlare优选IPV4地址 - 微测网",
+              "href": "https://www.wetest.vip/page/cloudflare/address_v4.html",
+              "description": "查看微测网提供的 CloudFlare IPv4 优选地址列表。获取低延迟、高速的 CloudFlare CDN 节点 IP。",
+              "icon": "/assets/favicon_1760410280250.png",
+              "enabled": true
             }
           ]
         }
