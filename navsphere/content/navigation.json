@@ -347,6 +347,14 @@
           "description": "源泉设计CAD软件下载",
           "icon": "/assets/favicon_1760408701988.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760408767042_e7y4cl10i",
+          "title": "Msteel",
+          "href": "https://www.msteel.top/",
+          "description": "MMsteel-批打印软件",
+          "icon": "/assets/favicon_1760408734764.png",
+          "enabled": true
         }
       ],
       "subCategories": []
