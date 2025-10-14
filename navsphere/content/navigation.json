@@ -226,6 +226,14 @@
           "description": "微软邮箱",
           "icon": "/assets/favicon_1760406735734.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760412673240_3i3kx2py4",
+          "title": "免费4K高清壁纸-电脑背景图片-Mac壁纸网站「哲风壁纸」",
+          "href": "https://haowallpaper.com/homeView",
+          "description": "哲风壁纸为广大壁纸爱好者提供交流和分享的平台，站内包含海量「4K-8K」高清「电脑桌面壁纸」「动态壁纸」「素材图片」「手机壁纸」「头像制作」均可「免费下载」",
+          "icon": "/assets/favicon_1760412663419.ico",
+          "enabled": true
         }
       ],
       "subCategories": [
