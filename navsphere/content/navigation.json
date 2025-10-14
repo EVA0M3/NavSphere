@@ -337,6 +337,14 @@
           "description": "访问 www.iiice.cn",
           "icon": "/assets/favicon_1760408936483.png",
           "enabled": true
+        },
+        {
+          "id": "site_1760410484250_yo613maxh",
+          "title": "Github开源",
+          "href": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg3NzU0NzIxMA==&action=getalbum&album_id=2535632693603303426&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fcs_8-vwmMvug32ge6tOqMA&nolastread=1#wechat_redirect",
+          "description": "访问 mp.weixin.qq.com",
+          "icon": "/assets/favicon_1760410465009.png",
+          "enabled": true
         }
       ],
       "subCategories": []
