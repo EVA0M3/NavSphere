@@ -445,7 +445,16 @@
           "icon": "Globe",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1760409680797_en2vcw1zk",
+              "title": "Hi",
+              "href": "https://hi.hanamaki.dev/public/#/login",
+              "description": "访问 hi.hanamaki.dev",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=hi.hanamaki.dev",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "b4ac3996-80f7-4bc9-bb4e-c3b79b04197e",
