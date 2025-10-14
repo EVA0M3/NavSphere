@@ -322,6 +322,14 @@
               "description": "访问 xnys.cc",
               "icon": "https://www.google.com/s2/favicons?sz=128&domain=xnys.cc",
               "enabled": true
+            },
+            {
+              "id": "site_1760428368889_2zg4exif7",
+              "title": "爱壹帆",
+              "href": "https://www.iyf.lv/",
+              "description": "爱壹帆每天发布最新电影和电视剧,为广大用户免费提供无广告在线观看电影和电视剧服务,及时收录最新、最热、最全的电影大片,4K高清免费看",
+              "icon": "/assets/favicon_1760428357562.png",
+              "enabled": true
             }
           ]
         },
