@@ -454,6 +454,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "2109c6b5-6a9b-40f7-90c7-0072efe4d4de",
+          "title": "域名管理",
+          "icon": "Briefcase",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
