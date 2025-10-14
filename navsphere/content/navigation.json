@@ -739,7 +739,16 @@
           "icon": "Heart",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1760411948355_v954po220",
+              "title": "Xclient",
+              "href": "https://xclient.info/s/",
+              "description": "访问 xclient.info",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=xclient.info",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c645561a-8aba-40f6-8386-7d43339752c2",
