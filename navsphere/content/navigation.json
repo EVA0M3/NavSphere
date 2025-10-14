@@ -558,6 +558,14 @@
               "description": "访问 subconverters.com",
               "icon": "/assets/favicon_1760410151125.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760410615906_xv8p5ms9c",
+              "title": "GitHub - Orz-3/mini: mini icon",
+              "href": "https://github.com/Orz-3/mini",
+              "description": "mini icon . Contribute to Orz-3/mini development by creating an account on GitHub.",
+              "icon": "/assets/favicon_1760410608184.png",
+              "enabled": true
             }
           ]
         },
