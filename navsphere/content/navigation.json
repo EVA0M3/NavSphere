@@ -354,6 +354,14 @@
               "description": "七味 - 观影小站",
               "icon": "/assets/favicon_1760430336786.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1760493104908_maspotv45",
+              "title": "Mini4k",
+              "href": "https://www.mini4k.com/",
+              "description": "访问 www.mini4k.com",
+              "icon": "/assets/favicon_1760493096661.png",
+              "enabled": true
             }
           ]
         },
