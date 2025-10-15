@@ -362,6 +362,14 @@
               "description": "访问 www.mini4k.com",
               "icon": "/assets/favicon_1760493096661.png",
               "enabled": true
+            },
+            {
+              "id": "site_1760493200044_7mqw747t9",
+              "title": "音范丝 | 首页——精选4K蓝光原盘下载,顶级收藏",
+              "href": "https://www.yinfans.me/",
+              "description": "音范丝是一个搜集、精选的高品质电影资源网站。",
+              "icon": "/assets/favicon_1760493194537.ico",
+              "enabled": true
             }
           ]
         },
