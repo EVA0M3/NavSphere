@@ -370,6 +370,14 @@
               "description": "音范丝是一个搜集、精选的高品质电影资源网站。",
               "icon": "/assets/favicon_1760493194537.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1760493218428_85hm453t2",
+              "title": "Hdzu",
+              "href": "https://www.hdzu.com/",
+              "description": "访问 www.hdzu.com",
+              "icon": "/assets/favicon_1760493211852.png",
+              "enabled": true
             }
           ]
         },
